@@ -1,0 +1,28 @@
+.contenido {
+  width: 100%;
+  padding: 0;
+}
+.contenido #inicio {
+  width: 100vw;
+  height: 100vh;
+  font-size: 10px;
+  justify-content: center;
+  background: url("https://execute.grupometis.org/wp-content/uploads/2020/06/java.jpg");
+  background-attachment: fixed;
+}
+.contenido #inicio div {
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 100vw;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 15%;
+}
+.contenido #inicio div p {
+  font-size: 10px;
+  margin: 15px 0;
+}
+.contenido #inicio div .typed {
+  font-size: 20px;
+}/*# sourceMappingURL=C-inicio.css.map */
