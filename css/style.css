@@ -496,8 +496,8 @@ body ::selection {
 #portafolio .portafolio_transparente .port_titulo p {
   color: black;
   font-size: 3vw;
-  text-align: justify;
-  padding: 0 10%;
+  text-align: center;
+  padding: 0 5%;
   margin: 3vh 0 1vh;
 }
 #portafolio .portafolio_transparente .port_galeria {
@@ -1137,7 +1137,7 @@ body ::selection {
     color: black;
     font-size: 1.5vw;
     text-align: justify;
-    padding: 0 10%;
+    padding: 0;
     margin: 3vh 0 1vh;
   }
   #portafolio .portafolio_transparente .port_galeria {
@@ -1725,7 +1725,7 @@ body ::selection {
     color: black;
     font-size: 1.2vw;
     text-align: justify;
-    padding: 0 10%;
+    padding: 0;
     margin: 3vh 0 1vh;
   }
   #portafolio .portafolio_transparente .port_galeria {
